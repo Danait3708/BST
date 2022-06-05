@@ -1,7 +1,7 @@
 # BST
-Syntax terminators
-Danait Hishe 
-Dagim Tesfaye
-Mikiyas Betru
-Rahel Alebachew
-Ruth Demelash
+Syntax terminators:
+Danait Hishe,
+Dagim Tesfaye,
+Mikiyas Betru,
+Rahel Alebachew,
+Ruth Demelash,
